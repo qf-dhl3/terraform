@@ -1,0 +1,1 @@
+checkov -s -f akscluster.tf
